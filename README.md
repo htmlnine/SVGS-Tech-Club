@@ -13,3 +13,8 @@
 - paste into IDE/Engine
 - comments are provided for additional information
 - issues can be filed under the issues tab
+
+
+# Documentation
+- Language Docs can be found at 
+ ![url](https://create.roblox.com/docs)
