@@ -17,4 +17,4 @@
 
 # Documentation
 - Language Docs can be found at 
-  (https://create.roblox.com/docs)
+  [https://create.roblox.com/docs]
