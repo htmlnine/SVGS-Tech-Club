@@ -1,4 +1,5 @@
 # Svgs Tech Club
+- *Welcome to the SVGS Tech Club's Github Repository*
   # Google Classroom code
     - Tt3zzet
 
