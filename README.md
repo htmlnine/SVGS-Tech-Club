@@ -1,5 +1,7 @@
 # Svgs Tech Club
 - *Welcome to the SVGS Tech Club's Github Repository*
+![image](https://images.gutefrage.net/media/fragen/bilder/am-besten-lua-sprache-lernen-scripten/0_big.png?v=1638911864000)
+
   # Google Classroom code
     - Tt3zzet
 
