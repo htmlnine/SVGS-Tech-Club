@@ -13,6 +13,7 @@
 - paste into IDE/Engine
 - comments are provided for additional information
 - issues can be filed under the issues tab
+- ".rbxm" files can be simply dragged and dropped into studio to access their contents
 
 
 # Documentation
